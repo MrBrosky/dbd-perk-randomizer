@@ -37,7 +37,7 @@ function mapList(){
     return ["Coal Tower","Groaning Storehouse","Ironworks of Misery","Shelter Woods","Suffocation Pit",
         "Azarov's Resting Place","Blood Lodge","Gas Heaven","Wretched Shop","Wrecker's Yard","Fractured Cowshed",
         "The Thompson House","Torment Creek","Rancid Abattoir","Rotten Fields","Disturbed Ward","Father Campbell's Chapel","Lampkin Lane",
-        "The Pale Rose","Grim Pantry","Treatment Theatre","Mother's Dwelling","Badham Preschool","The Game"
+        "The Pale Rose","Grim Pantry","Treatment Theatre","Mother's Dwelling","Badham Preschool","The Game","Yamaoka Estate"
     ];
 }
 //Picker, it selects an item from an array
