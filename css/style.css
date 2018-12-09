@@ -3,6 +3,7 @@ body {
     padding:0;
     height:100%;
 	background-image: url("https://github.com/MrBrosky/dbd-perk-randomizer/blob/master/assets/dbd-pip-lobby-background.jpg?raw=true");
+	background-repeat: no-repeat
 }
 button {
 	width:100px;
