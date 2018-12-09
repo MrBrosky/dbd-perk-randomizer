@@ -7,7 +7,7 @@ function survivorPerks(){
         "Quick & Quiet","Resilience","Saboteur","Self-Care","Slippery Meat","Small Game","Sole Survivor","Spine Chill",
         "Sprint Burst","Stake Out","Streetwise","This Is Not Happening","Technician","Tenacity","Up The Ante",
         "Unbreakable","Urban Evasion","Vigil","Wake Up","We'll Make It","We're Gonna Live Forever","Dance With Me",
-        "Windows Of Opportunity","Boil Over"
+        "Windows Of Opportunity","Boil Over","Diversion","Deliverance","Autodidact"
     ];
 }
 //Returns an array of killer perks
@@ -19,18 +19,18 @@ function killerPerks(){
         "Make Your Choice","Monitor & Abuse","Monstrous Shrine","Overcharge","Overwhelming Presence","Remember Me",
         "Play With Your Food","Predator","Save The Best For Last","Shadowborn","Sloppy Butcher",
         "Spies From The Shadows","Stridor","Surveilance","Terrtorial Imperative","Tinkerer","Thanatophobia",
-        "Unnerving Presence","Unrelenting","Whispers","Bamboozle","Coulrophobia","Pop Goes The Weasel"
+        "Unnerving Presence","Unrelenting","Whispers","Bamboozle","Coulrophobia","Pop Goes The Weasel","Spirit Fury","Hex: Haunted Ground","Rancor"
     ];
 }
 //Returns a list of survivors
 function survivorList() {
     return ["Dwight Fairfield","Meg Thomas","Claudette Morel","Jake Park","Nea Karlsson","Laurie Strode",
-        "Ace Visconti","Bill Overbeck","Feng Min","David King","Quentin Smith","David Tapp","Kate Denson"
+        "Ace Visconti","Bill Overbeck","Feng Min","David King","Quentin Smith","David Tapp","Kate Denson","Adam Francis"
     ];
 }
 //Returns a list of killers
 function killerList(){
-    return ["Trapper","Wraith","Hillbilly","Nurse","Shape","Hag","Doctor","Huntress","Cannibal","Nightmare","Pig","Clown"];
+    return ["Trapper","Wraith","Hillbilly","Nurse","Shape","Hag","Doctor","Huntress","Cannibal","Nightmare","Pig","Clown","The Spirit"];
 }
 //Returns a list of maps
 function mapList(){
